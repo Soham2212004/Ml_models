@@ -30,7 +30,7 @@ https://github.com/Soham2212004/Ml_models/assets/142389695/75dd4c73-dc3b-4c91-b8
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/ml_models_app.git
+    git clone https://github.com/Soham2212004/ml_models_app.git
     ```
 2. **Navigate to the Project Directory**
     ```bash
