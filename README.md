@@ -26,28 +26,7 @@ https://github.com/Soham2212004/Ml_models/assets/142389695/75dd4c73-dc3b-4c91-b8
 - Flutter SDK
 - Dart SDK
 
-### Installation
 
-1. **Clone the Repository**
-    ```bash
-    git clone https://github.com/Soham2212004/ml_models_app.git
-    ```
-2. **Navigate to the Project Directory**
-    ```bash
-    cd ml_models_app
-    ```
-3. **Install Dependencies**
-    ```bash
-    flutter pub get
-    ```
-
-### Running the App
-
-To run the app on an emulator or physical device:
-
-```bash
-flutter run
-```
 ## Usage
 ### Emotion Detection
 - Open the app and navigate to the "Models" section.
