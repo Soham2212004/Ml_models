@@ -39,7 +39,7 @@ https://github.com/Soham2212004/Ml_models/assets/142389695/75dd4c73-dc3b-4c91-b8
 - Use your device’s camera to scan the environment and see detected objects in real-time.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
 
